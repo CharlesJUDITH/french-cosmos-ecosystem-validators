@@ -5,7 +5,7 @@ This is a list of French validators in the Cosmos ecosystem (CosmosHub, Osmosis,
 ### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/akash/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> Akash
 
 &emsp; [Imperator.co](https://imperator.co): Stake <br/>
-&emsp; [StakeLab](https://www.stakelab.fr): [Stake](https://wallet.keplr.app/#/akashnet/stake?modal=stake&validator=akashvaloper1dgxdep80th2qm8xxk8h3j3g93npsd3a8jg60gz
+&emsp; [StakeLab](https://www.stakelab.fr): [Stake](https://wallet.keplr.app/#/akashnet/stake?modal=stake&validator=akashvaloper1dgxdep80th2qm8xxk8h3j3g93npsd3a8jg60gz)
 
 ### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/asset-mantle/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> Asset Mantle
 
