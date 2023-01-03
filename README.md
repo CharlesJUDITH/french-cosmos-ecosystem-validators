@@ -8,19 +8,31 @@ This is a list of French validators in the Cosmos ecosystem (CosmosHub, Osmosis,
 &emsp; [StakeLab](https://www.stakelab.fr): [Stake](https://wallet.keplr.app/#/akashnet/stake?modal=stake&validator=akashvaloper1dgxdep80th2qm8xxk8h3j3g93npsd3a8jg60gz)
 
 ### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/asset-mantle/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> Asset Mantle
-
+&emsp; [Cros-nest](https://cros-nest.com/): Stake <br/>
+&emsp; [Imperator.co](https://imperator.co): Stake <br/>
+&emsp; [StakeLab](https://www.stakelab.fr): Stake
 
 ### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/axelar/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> Axelar
-
+&emsp; [Cros-nest](https://cros-nest.com/): Stake <br/>
+&emsp; [Imperator.co](https://imperator.co): Stake <br/>
+&emsp; [Inter Blockchain Services (former 3Tekos)](https://ibs.team): Stake <br/>
+&emsp; [StakeLab](https://www.stakelab.fr): Stake
 
 ### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/band/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> Band
+&emsp; [High Stakes 🇨🇭](https://highstakes.ch/): Stake <br/>
+&emsp; [Inter Blockchain Services (former 3Tekos)](https://ibs.team): Stake <br/>
+&emsp; [StakeLab](https://www.stakelab.fr): Stake
 
-
-### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/bitcanna/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> Bitcana
-
+### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/bitcanna/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> Bitcanna
+&emsp; [atmon3r](https://www.bitcanna.io/): Stake <br/>
+&emsp; [AVIAONE](https://aviaone.com/): Stake <br/>
+&emsp; [Imperator.co](https://imperator.co): Stake <br/>
+&emsp; [Inter Blockchain Services (former 3Tekos)](https://ibs.team): Stake <br/>
+&emsp; [StakeLab](https://www.stakelab.fr): Stake
 
 ### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/bitsong/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> Bitsong
-
+&emsp; [Imperator.co](https://imperator.co): Stake <br/>
+&emsp; [StakeLab](https://www.stakelab.fr): Stake
 
 ### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/cerberus/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> Cerberus
 
