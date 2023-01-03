@@ -173,6 +173,8 @@ This is a list of French validators in the Cosmos ecosystem (CosmosHub, Osmosis,
 &emsp; [Imperator.co](https://imperator.co): Stake <br/>
 
 ### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/omniflix/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> Omniflix
+&emsp; [Cros-nest](https://cros-nest.com/): Stake <br/>
+&emsp; [Imperator.co](https://imperator.co): Stake <br/>
 &emsp; [StakeLab](https://www.stakelab.fr): Stake
 
 ### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/onomy-protocol/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> Onomy
