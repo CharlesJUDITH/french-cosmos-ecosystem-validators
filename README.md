@@ -58,12 +58,12 @@ This is a list of French validators in the Cosmos ecosystem (CosmosHub, Osmosis,
 &emsp; [Node Guardians](https://nodeguardians.io/) : Stake <br/>
 &emsp; [High Stakes 🇨🇭](https://highstakes.ch/): Stake
 
-### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/asset-mantle/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> Crescent
+### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/crescent/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> Crescent
 &emsp; [Imperator.co](https://imperator.co): Stake <br/>
 &emsp; [StakeLab](https://www.stakelab.fr): Stake
 
 
-### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/crescent/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> Crypto.org
+### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/crypto-org/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> Crypto.org
 &emsp; [Cros-nest](https://cros-nest.com/): Stake <br/>
 
 ### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/cudos/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> Cudos
@@ -131,7 +131,7 @@ This is a list of French validators in the Cosmos ecosystem (CosmosHub, Osmosis,
 &emsp; [StakeLab](https://www.stakelab.fr): Stake
 
 
-### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/asset-mantle/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> KAVA
+### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/kava/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> KAVA
 &emsp; [Cros-nest](https://cros-nest.com/): Stake <br/>
 &emsp; [Inter Blockchain Services (former 3Tekos)](https://ibs.team): Stake <br/>
 &emsp; [StakeLab](https://www.stakelab.fr): Stake
