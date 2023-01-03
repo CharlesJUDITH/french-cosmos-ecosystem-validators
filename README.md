@@ -102,6 +102,7 @@ This is a list of French validators in the Cosmos ecosystem (CosmosHub, Osmosis,
 
 
 ### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/gravity-bridge/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> Gravity Bridge
+&emsp; [AVIAONE](https://aviaone.com/): Stake <br/>
 &emsp; [Cros-nest](https://cros-nest.com/): Stake <br/>
 &emsp; [Inter Blockchain Services (former 3Tekos)](https://ibs.team): Stake <br/>
 &emsp; [StakeLab](https://www.stakelab.fr): Stake
@@ -138,12 +139,14 @@ This is a list of French validators in the Cosmos ecosystem (CosmosHub, Osmosis,
 
 
 ### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/ki-chain/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> KI Chain
+&emsp; [AVIAONE](https://aviaone.com/): Stake <br/>
 &emsp; [Cros-nest](https://cros-nest.com/): Stake <br/>
 &emsp; [Inter Blockchain Services (former 3Tekos)](https://ibs.team): Stake <br/>
 &emsp; [Imperator.co](https://imperator.co): Stake <br/>
 &emsp; [StakeLab](https://www.stakelab.fr): Stake
 
 ### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/konstellation/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> Konstellation
+&emsp; [AVIAONE](https://aviaone.com/): Stake <br/>
 &emsp; [Cros-nest](https://cros-nest.com/): Stake <br/>
 &emsp; [High Stakes 🇨🇭](https://highstakes.ch/): Stake <br/>
 &emsp; [Imperator.co](https://imperator.co): Stake <br/>
