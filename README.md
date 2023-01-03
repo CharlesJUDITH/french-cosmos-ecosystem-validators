@@ -54,7 +54,7 @@ This is a list of French validators in the Cosmos ecosystem (CosmosHub, Osmosis,
 
 
 ### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/crescent/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> Crypto.org
-&emsp; Cros-nest 
+&emsp; [Cros-nest](https://cros-nest.com/): Stake <br/>
 
 ### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/cudos/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> Cudos
 
@@ -162,19 +162,31 @@ This is a list of French validators in the Cosmos ecosystem (CosmosHub, Osmosis,
 
 
 ### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/stargaze/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> Stargaze
-
+&emsp; [Cros-nest](https://cros-nest.com/): Stake <br/>
+&emsp; [Imperator.co](https://imperator.co): Stake <br/>
+&emsp; [Inter Blockchain Services (former 3Tekos)](https://ibs.team): Stake <br/>
+&emsp; [StakeLab](https://www.stakelab.fr): Stake
 
 ### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/starname/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> Starname
 
-
 ### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/stride/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> Stride
+&emsp; [AVIAONE](https://aviaone.com/): Stake <br/>
+&emsp; [Cros-nest](https://cros-nest.com/): Stake <br/>
+&emsp; [Imperator.co](https://imperator.co): Stake <br/>
+&emsp; [StakeLab](https://www.stakelab.fr): Stake
 
 ### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/teritori/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> Teritori
+&emsp; [Cros-nest](https://cros-nest.com/): Stake <br/>
+&emsp; [StakeLab](https://www.stakelab.fr): Stake <br/>
+&emsp; [High Stakes 🇨🇭](https://highstakes.ch/): Stake
 
 ### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/tgrade/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> TGrade
+&emsp; [Imperator.co](https://imperator.co): Stake <br/>
+&emsp; [StakeLab](https://www.stakelab.fr): Stake
 
 ### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/umee/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> Umee
-
+&emsp; [Imperator.co](https://imperator.co): Stake <br/>
+&emsp; [StakeLab](https://www.stakelab.fr): Stake
 
 ### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/xpla/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> XPLA
 
