@@ -188,7 +188,7 @@ This is a list of French validators in the Cosmos ecosystem (CosmosHub, Osmosis,
 &emsp; [Imperator.co](https://imperator.co): Stake <br/>
 &emsp; [StakeLab](https://www.stakelab.fr): Stake <br/>
 &emsp; [Node Guardians](https://nodeguardians.io/) : Stake <br/>
-&emsp; [Astroquirks | Profit Sharing 🤑 💰](https://astroquirks.com/) : Stake
+&emsp; [Astroquirks | Profit Sharing 🤑 💰](https://astroquirks.com/) : [Stake](http://stake.astroquirks.com/)
 
 ### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/passage/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> Passage
 &emsp; [AVIAONE](https://aviaone.com/): Stake <br/>
