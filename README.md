@@ -4,7 +4,7 @@ This is a list of French validators in the Cosmos ecosystem (CosmosHub, Osmosis,
 
 ### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/akash/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> Akash
 
-&emsp; [Imperator.co](https://imperator.co): Stake <br/>
+&emsp; [Imperator.co](https://imperator.co): [Stake](https://wallet.keplr.app/chains/akash?modal=validator&chain=akashnet-2&validator_address=akashvaloper1enhj36w6clcm5fjnp87jnffnkthfux2uj88l6h&referral=true) <br/>
 &emsp; [StakeLab](https://www.stakelab.fr): [Stake](https://wallet.keplr.app/#/akashnet/stake?modal=stake&validator=akashvaloper1dgxdep80th2qm8xxk8h3j3g93npsd3a8jg60gz)
 
 ### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/asset-mantle/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> Asset Mantle
@@ -52,11 +52,11 @@ This is a list of French validators in the Cosmos ecosystem (CosmosHub, Osmosis,
 
 
 ### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/cosmos/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> Cosmoshub
-&emsp; [Cros-nest](https://cros-nest.com/): Stake <br/>
-&emsp; [Imperator.co](https://imperator.co): Stake <br/>
-&emsp; [StakeLab](https://www.stakelab.fr): Stake <br/>
-&emsp; [Node Guardians](https://nodeguardians.io/) : Stake <br/>
-&emsp; [High Stakes 🇨🇭](https://highstakes.ch/): Stake
+&emsp; [Cros-nest](https://cros-nest.com/): [Stake](https://wallet.keplr.app/chains/cosmos-hub?modal=validator&chain=cosmoshub-4&validator_address=cosmosvaloper1fsg635n5vgc7jazz9sx5725wnc3xqgr7awxaag&referral=true) <br/>
+&emsp; [Imperator.co](https://imperator.co): [Stake](https://wallet.keplr.app/chains/cosmos-hub?modal=validator&chain=cosmoshub-4&validator_address=cosmosvaloper1vvwtk805lxehwle9l4yudmq6mn0g32px9xtkhc&referral=true) <br/>
+&emsp; [StakeLab](https://www.stakelab.fr): [Stake](https://wallet.keplr.app/chains/cosmos-hub?modal=validator&chain=cosmoshub-4&validator_address=cosmosvaloper1gpx52r9h3zeul45amvcy2pysgvcwddxrgx6cnv&referral=true) <br/>
+&emsp; [Node Guardians](https://nodeguardians.io/) : [Stake](https://wallet.keplr.app/chains/cosmos-hub?modal=validator&chain=cosmoshub-4&validator_address=cosmosvaloper1jst8q8flpn94u9uvkpae8mrkk3a5pjhxx529z2&referral=true) <br/>
+&emsp; [High Stakes 🇨🇭](https://highstakes.ch/): [Stake](https://wallet.keplr.app/chains/cosmos-hub?modal=validator&chain=cosmoshub-4&validator_address=cosmosvaloper1yh089p0cre4nhpdqw35uzde5amg3qzexkeggdn&referral=true)
 
 ### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/crescent/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> Crescent
 &emsp; [Imperator.co](https://imperator.co): Stake <br/>
@@ -189,10 +189,10 @@ This is a list of French validators in the Cosmos ecosystem (CosmosHub, Osmosis,
 
 
 ### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/osmosis/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> Osmosis
-&emsp; [Cros-nest](https://cros-nest.com/): Stake <br/>
-&emsp; [Imperator.co](https://imperator.co): Stake <br/>
-&emsp; [StakeLab](https://www.stakelab.fr): Stake <br/>
-&emsp; [Node Guardians](https://nodeguardians.io/) : Stake <br/>
+&emsp; [Cros-nest](https://cros-nest.com/): [Stake](https://wallet.keplr.app/chains/osmosis?modal=validator&chain=osmosis-1&validator_address=osmovaloper1u6jr0pztvsjpvx77rfzmtw49xwzu9kas05lk04&referral=true) <br/>
+&emsp; [Imperator.co](https://imperator.co): [Stake](https://wallet.keplr.app/chains/osmosis?modal=validator&chain=osmosis-1&validator_address=osmovaloper1t8qckan2yrygq7kl9apwhzfalwzgc2429p8f0s&referral=true) <br/>
+&emsp; [StakeLab](https://www.stakelab.fr): [Stake](https://wallet.keplr.app/chains/osmosis?modal=validator&chain=osmosis-1&validator_address=osmovaloper16q8xd335y38xk2ul67mjg27vdnrcnklt4wx6kt&referral=true) <br/>
+&emsp; [Node Guardians](https://nodeguardians.io/) : [Stake](https://wallet.keplr.app/chains/osmosis?modal=validator&chain=osmosis-1&validator_address=osmovaloper15xstrgzpwhduklvyhy9g7gu774lm8cjjxdvlw6&referral=true) <br/>
 &emsp; [Astroquirks | Profit Sharing 🤑 💰](https://astroquirks.com/) : [Stake](http://stake.astroquirks.com/)
 
 ### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/passage/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> Passage
@@ -234,13 +234,13 @@ This is a list of French validators in the Cosmos ecosystem (CosmosHub, Osmosis,
 
 
 ### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/secret/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> Secret
-&emsp; [High Stakes 🇨🇭](https://highstakes.ch/): Stake <br/>
-&emsp; [StakeLab](https://www.stakelab.fr): Stake
+&emsp; [High Stakes 🇨🇭](https://highstakes.ch/): [Stake](https://wallet.keplr.app/chains/secret-network?modal=validator&chain=secret-4&validator_address=secretvaloper1jgx4pn3acae9esq5zha5ym3kzhq6x60frjwkrp&referral=true) <br/>
+&emsp; [StakeLab](https://www.stakelab.fr): [Stake](https://wallet.keplr.app/chains/secret-network?modal=validator&chain=secret-4&validator_address=secretvaloper16w5hlcf389le2n60t32eqf43plp539ged9sruy&referral=true)
 
 ### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/sentinel/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> Sentinel
-&emsp; [High Stakes 🇨🇭](https://highstakes.ch/): Stake <br/>
-&emsp; [Imperator.co](https://imperator.co): Stake <br/>
-&emsp; [StakeLab](https://www.stakelab.fr): Stake
+&emsp; [High Stakes 🇨🇭](https://highstakes.ch/): [Stake](https://wallet.keplr.app/chains/sentinel?modal=validator&chain=sentinelhub-2&validator_address=sentvaloper1em47hyec6g6jcmywp5mpqvs66h7wdnj6kd5t6p&referral=true) <br/>
+&emsp; [Imperator.co](https://imperator.co): [Stake](https://wallet.keplr.app/chains/sentinel?modal=validator&chain=sentinelhub-2&validator_address=sentvaloper13vrf9z9d2mfuwss9jrkud3v3q8hu3cp0ngpsrz&referral=true) <br/>
+&emsp; [StakeLab](https://www.stakelab.fr): [Stake](https://wallet.keplr.app/chains/sentinel?modal=validator&chain=sentinelhub-2&validator_address=sentvaloper1gwqt4jzhtvms8u57gpl4tzxjxqq8fss2j3hx48&referral=true)
 
 
 ### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/shentu/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> Shentu (Certik)
