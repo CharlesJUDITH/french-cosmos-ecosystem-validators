@@ -172,6 +172,11 @@ This is a list of French validators in the Cosmos ecosystem (CosmosHub, Osmosis,
 &emsp; [Imperator.co](https://imperator.co): Stake <br/>
 &emsp; [StakeLab](https://www.stakelab.fr): Stake
 
+### <img alt="" src="https://raw.githubusercontent.com/nomic-io/demo/465688f56cae8dbe67366e2aa6c366eff708b8e1/client/logo2.png" width="30" height="30"> Nomic
+&emsp; [Cros-nest](https://cros-nest.com/): Stake <br/>
+&emsp; [Imperator.co](https://imperator.co): Stake <br/>
+&emsp; [StakeLab](https://www.stakelab.fr): Stake
+
 ### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/nyx/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> NYX
 &emsp; [Imperator.co](https://imperator.co): Stake <br/>
 
