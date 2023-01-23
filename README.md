@@ -238,7 +238,6 @@ This is a list of French validators in the Cosmos ecosystem (CosmosHub, Osmosis,
 &emsp; [StakeLab](https://www.stakelab.fr): [Stake](https://wallet.keplr.app/chains/secret-network?modal=validator&chain=secret-4&validator_address=secretvaloper16w5hlcf389le2n60t32eqf43plp539ged9sruy&referral=true)
 
 ### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/sentinel/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> Sentinel
-&emsp; [High Stakes 🇨🇭](https://highstakes.ch/): [Stake](https://wallet.keplr.app/chains/sentinel?modal=validator&chain=sentinelhub-2&validator_address=sentvaloper1em47hyec6g6jcmywp5mpqvs66h7wdnj6kd5t6p&referral=true) <br/>
 &emsp; [Imperator.co](https://imperator.co): [Stake](https://wallet.keplr.app/chains/sentinel?modal=validator&chain=sentinelhub-2&validator_address=sentvaloper13vrf9z9d2mfuwss9jrkud3v3q8hu3cp0ngpsrz&referral=true) <br/>
 &emsp; [StakeLab](https://www.stakelab.fr): [Stake](https://wallet.keplr.app/chains/sentinel?modal=validator&chain=sentinelhub-2&validator_address=sentvaloper1gwqt4jzhtvms8u57gpl4tzxjxqq8fss2j3hx48&referral=true)
 
