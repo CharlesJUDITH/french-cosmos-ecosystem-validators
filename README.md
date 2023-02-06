@@ -189,11 +189,11 @@ This is a list of French validators in the Cosmos ecosystem (CosmosHub, Osmosis,
 
 
 ### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/osmosis/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> Osmosis
+&emsp; [Astroquirks | Profit Sharing 🤑 💰](https://astroquirks.com/) : [Stake](http://stake.astroquirks.com/)
 &emsp; [Cros-nest](https://cros-nest.com/): [Stake](https://wallet.keplr.app/chains/osmosis?modal=validator&chain=osmosis-1&validator_address=osmovaloper1u6jr0pztvsjpvx77rfzmtw49xwzu9kas05lk04&referral=true) <br/>
 &emsp; [Imperator.co](https://imperator.co): [Stake](https://wallet.keplr.app/chains/osmosis?modal=validator&chain=osmosis-1&validator_address=osmovaloper1t8qckan2yrygq7kl9apwhzfalwzgc2429p8f0s&referral=true) <br/>
 &emsp; [StakeLab](https://www.stakelab.fr): [Stake](https://wallet.keplr.app/chains/osmosis?modal=validator&chain=osmosis-1&validator_address=osmovaloper16q8xd335y38xk2ul67mjg27vdnrcnklt4wx6kt&referral=true) <br/>
 &emsp; [Node Guardians](https://nodeguardians.io/) : [Stake](https://wallet.keplr.app/chains/osmosis?modal=validator&chain=osmosis-1&validator_address=osmovaloper15xstrgzpwhduklvyhy9g7gu774lm8cjjxdvlw6&referral=true) <br/>
-&emsp; [Astroquirks | Profit Sharing 🤑 💰](https://astroquirks.com/) : [Stake](http://stake.astroquirks.com/)
 
 ### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/passage/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> Passage
 &emsp; [AVIAONE](https://aviaone.com/): Stake <br/>
@@ -262,10 +262,11 @@ This is a list of French validators in the Cosmos ecosystem (CosmosHub, Osmosis,
 
 
 ### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/stargaze/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> Stargaze
-&emsp; [Cros-nest](https://cros-nest.com/): Stake <br/>
-&emsp; [Imperator.co](https://imperator.co): Stake <br/>
-&emsp; [Inter Blockchain Services (former 3Tekos)](https://ibs.team): Stake <br/>
-&emsp; [StakeLab](https://www.stakelab.fr): Stake
+&emsp; [Astroquirks | Profit Sharing 🤑 💰](https://astroquirks.com/): [Stake](https://wallet.keplr.app/chains/stargaze?modal=validator&chain=stargaze-1&validator_address=starsvaloper1kekv8xqg7aj628l8av4d95cm79y8lw3clph7u7&referral=true) <br/>
+&emsp; [Cros-nest](https://cros-nest.com/): [Stake](https://wallet.keplr.app/chains/stargaze?modal=validator&chain=stargaze-1&validator_address=starsvaloper1cpaslqxawslaadw7e6vmakkx8wu8z4408wxj0p&referral=true) <br/>
+&emsp; [Imperator.co](https://imperator.co): [Stake](https://wallet.keplr.app/chains/stargaze?modal=validator&chain=stargaze-1&validator_address=starsvaloper1y3cxrze7kmktj93atd42g9rffyg823g0qjqelc&referral=true) <br/>
+&emsp; [Inter Blockchain Services (former 3Tekos)](https://ibs.team): [Stake](https://wallet.keplr.app/chains/stargaze?modal=validator&chain=stargaze-1&validator_address=starsvaloper1yskcx5zfkr3nacn6f5zd08yw72zwm4s06x8tpz&referral=true) <br/>
+&emsp; [StakeLab](https://www.stakelab.fr): [Stake](https://wallet.keplr.app/chains/stargaze?modal=validator&chain=stargaze-1&validator_address=starsvaloper1mz2qks48v486d9m8wp4l9fxm2e9l0e0kzk79m5&referral=true) 
 
 ### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/starname/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> Starname
 &emsp; [StakeLab](https://www.stakelab.fr): Stake
