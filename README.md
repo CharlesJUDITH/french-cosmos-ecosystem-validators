@@ -237,6 +237,7 @@ This is a list of French validators in the Cosmos ecosystem (CosmosHub, Osmosis,
 
 
 ### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/secret/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> Secret
+&emsp; [Cros-nest](https://cros-nest.com/): Stake <br/>
 &emsp; [High Stakes 🇨🇭](https://highstakes.ch/): [Stake](https://wallet.keplr.app/chains/secret-network?modal=validator&chain=secret-4&validator_address=secretvaloper1jgx4pn3acae9esq5zha5ym3kzhq6x60frjwkrp&referral=true) <br/>
 &emsp; [StakeLab](https://www.stakelab.fr): [Stake](https://wallet.keplr.app/chains/secret-network?modal=validator&chain=secret-4&validator_address=secretvaloper16w5hlcf389le2n60t32eqf43plp539ged9sruy&referral=true)
 
