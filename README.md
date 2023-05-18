@@ -156,6 +156,13 @@ This is a list of French validators in the Cosmos ecosystem (CosmosHub, Osmosis,
 &emsp; [Inter Blockchain Services (former 3Tekos)](https://ibs.team): Stake <br/>
 &emsp; [Imperator.co](https://imperator.co): Stake <br/>
 
+### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/kyve/chainImg/logoImg/chainImg.svg" width="30" height="30"> Kyve
+&emsp; [Cros-nest](https://cros-nest.com/): Stake <br/>
+&emsp; [Inter Blockchain Services (former 3Tekos)](https://ibs.team): Stake <br/>
+&emsp; [Imperator.co](https://imperator.co): Stake <br/>
+&emsp; [Node Guardians](https://nodeguardians.io/):  Stake <br/>
+&emsp; [StakeLab](https://www.stakelab.fr): Stake
+
 ### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/likecoin/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> LikeCoin
 
 
